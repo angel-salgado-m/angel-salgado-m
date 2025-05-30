@@ -8,6 +8,8 @@
 
 ***About Me***
 
+<img align="right" width=250px src="https://i.imgur.com/QnWs2mu.gif">
+
 I am an undergraduate Software Engineering Student at [Universidad de Valparaíso](https://informatica.uv.cl/), Chile. I have programming experience in Javascript, Python and Netlogo.
 
 I'm passionate about **agent-based simulations**, **back-end development** and helping develop tools that have a real world impact. My experience includes working on:
@@ -17,8 +19,14 @@ I'm passionate about **agent-based simulations**, **back-end development** and h
 
 Currently exploring:
 - ⚙️ Agent-based modelling for crowd dynamics in **NetLogo**
-- 🧠 Bio-inspired algorithms like **LOA and PSO** for optimization tasks
+- 🧠 Bio-inspired algorithms like **PSO** for optimization tasks
 - 🧰 Full-stack development and **designing RESTful services* for real applications
+
+---
+
+- I'm always open to collaborate on open-source projects.
+
+- My hobbies include music, and 
 
 ---
 
