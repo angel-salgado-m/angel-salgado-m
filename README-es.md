@@ -8,7 +8,7 @@
 
 ***Sobre mí***
 
-<img align="right" width=250px src="https://i.imgur.com/QnWs2mu.gif">
+<img align="right" width=250px src="./resources/character.gif">
 
 Soy estudiante de Ingeniería en Software en la [Universidad de Valparaíso](https://informatica.uv.cl/), Chile. Tengo experiencia programando en Javascript, Python y NetLogo.
 

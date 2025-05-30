@@ -10,7 +10,7 @@
 
 ***About Me***
 
-<img align="right" width=250px src="https://i.imgur.com/QnWs2mu.gif">
+<img align="right" width=250px src="./resources/character.gif">
 
 I am an undergraduate Software Engineering Student at [Universidad de Valparaíso](https://informatica.uv.cl/), Chile. I have programming experience in Javascript, Python and Netlogo.
 
