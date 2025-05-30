@@ -22,13 +22,11 @@ Currently exploring:
 - 🧠 Bio-inspired algorithms like **PSO** for optimization tasks
 - 🧰 Full-stack development and **designing RESTful services* for real applications
 
----
+More about me:
 
-- I'm always open to collaborate on open-source projects.
+- 🔭 I'm always open to collaborate on open-source projects.
+- 🎵  My hobbies include music, and making coffee as a barista ☕.
 
-- My hobbies include music, and 
-
----
 
 ## 🛠️ Skills
 
